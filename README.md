@@ -1,33 +1,33 @@
 # Data-Source-API-Analyst-Test
 
-## Описание
-Этот репозиторий содержит домашнее задание для роли Data Source API Analyst. Здесь представлены примеры использования GitHub API для поиска репозиториев, извлечения коммитов и получения содержимого репозиториев.
+## Description
+This repository contains homework for the Data Source API Analyst role. It provides examples of using the GitHub API to search repositories, retrieve commits, and get repository contents.
 
-## Структура репозитория
-- **Content/**: Содержит документацию API, код Python и руководства.
-- **Postman_Collection/**: Содержит коллекцию Postman и Jupyter notebook.
+## Repository structure
+- **Content/**: Contains API documentation, Python code, and tutorials.
+- **Postman_Collection/**: Contains the Postman collection and Jupyter notebook.
 
-## Части теста
+## Test parts
 
-### Часть 1: Подготовка и тестирование списка отчетов
-- **Цель**: Исследование GitHub API и определение необходимых конечных точек.
-- **Подход**: Изучение документации API, написание кода для выполнения запросов и обработки ответов.
+### Part 1: Prepare and test a list of reports
+- **Goal**: Explore the GitHub API and determine the endpoints needed.
+- **Approach**: Read the API documentation, write code to make requests, and process responses.
 
-### Часть 2: Настройка репозитория GitHub
-- **Цель**: Создание структурированного репозитория для хранения всех материалов теста.
-- **Подход**: Создание репозитория, добавление описания и структуры папок.
+### Part 2: Set up a GitHub repository
+- **Goal**: Create a structured repository to store all test materials.
+- **Approach**: Create a repository, add a description and folder structure.
 
-### Часть 3: Аутентификация
-- **Цель**: Реализация процесса аутентификации для доступа к GitHub API.
-- **Подход**: Использование токенов доступа и написание кода для аутентификации.
+### Part 3: Authentication
+- **Goal**: Implement an authentication process to access the GitHub API.
+- **Approach**: Use access tokens and write code to authenticate.
 
-### Часть 4: Извлечение данных
-- **Цель**: Извлечение данных из GitHub API.
-- **Подход**: Написание кода для выполнения запросов и обработки ответов.
+### Part 4: Data Extraction
+- **Goal**: Extract data from the GitHub API.
+- **Approach**: Write code to make requests and handle responses.
 
-### Часть 5: Отражение задания
-- **Цель**: Отражение выполненного задания и выводы.
-- **Подход**: Добавление размышлений и выводов в README.md.
+### Part 5: Task Reflection
+- **Goal**: Reflect on the completed task and write conclusions.
+- **Approach**: Add reflections and conclusions to README.md.
 
-## Коммиты
-- **Initial commit**: Добавление структуры папок и README.md для предоставления контекста, что послужит основой для создания API-запросов с использованием Postman или Google Colab.
+## Commits
+- **Initial commit**: Add the folder structure and README.md to provide context, which will serve as the basis for making API requests using Postman or Google Colab.
